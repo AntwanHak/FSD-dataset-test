@@ -1,0 +1,41 @@
+﻿Terrestrial ecozone,Section,Measure,Value,Units
+Canada,Forest area by classification (hectares),Forest land,368672267,Area (hectares)
+Canada,Forest area by classification (hectares),Other land with tree cover,6830004,Area (hectares)
+Canada,Forest area by classification (hectares),Other wooded land,35730397,Area (hectares)
+Canada,Forest area change (hectares),Afforestation,Not available,Area (hectares)
+Canada,Forest area change (hectares),Deforestation,49248,Area (hectares)
+Canada,Forest type (forest land only),Non-treed,4.9,Percentage
+Canada,Forest type (forest land only),Treed Broadleaf,11.4,Percentage
+Canada,Forest type (forest land only),Treed Coniferous,70.2,Percentage
+Canada,Forest type (forest land only),Treed Mixedwood,13.6,Percentage
+Canada,Forest ownership,Aboriginal,2.1,Percentage
+Canada,Forest ownership,Federal,1.7,Percentage
+Canada,Forest ownership,Municipal,0.3,Percentage
+Canada,Forest ownership,Other,0.8,Percentage
+Canada,Forest ownership,Private,6.7,Percentage
+Canada,Forest ownership,Provincial,75.7,Percentage
+Canada,Forest ownership,Territorial,12.8,Percentage
+Canada,Growing stock (million cubic metres),Total volume,51073563000,Cubic metres
+Canada,Predominant tree species (forest land only)—volume,Birch,3.3,Percentage
+Canada,Predominant tree species (forest land only)—volume,Cedar & other conifers,3.1,Percentage
+Canada,Predominant tree species (forest land only)—volume,Douglas-fir,3.8,Percentage
+Canada,Predominant tree species (forest land only)—volume,Fir,8.4,Percentage
+Canada,Predominant tree species (forest land only)—volume,Hemlock,6.2,Percentage
+Canada,Predominant tree species (forest land only)—volume,Larch,1.5,Percentage
+Canada,Predominant tree species (forest land only)—volume,Maple,3,Percentage
+Canada,Predominant tree species (forest land only)—volume,Other hardwoods,0.5,Percentage
+Canada,Predominant tree species (forest land only)—volume,Pine,11.8,Percentage
+Canada,Predominant tree species (forest land only)—volume,Poplar,13.6,Percentage
+Canada,Predominant tree species (forest land only)—volume,Spruce,43.9,Percentage
+Canada,Predominant tree species (forest land only)—volume,Unclassified,0,Percentage
+Canada,Predominant tree species (forest land only)—volume,Unspecified conifers,0.6,Percentage
+Canada,Predominant tree species (forest land only)—volume,Unspecified hardwoods,0.3,Percentage
+Canada,Land use (hectares),Agriculture,60018561,Area (hectares)
+Canada,Land use (hectares),Conservation,93462126,Area (hectares)
+Canada,Land use (hectares),Forestry,260903158,Area (hectares)
+Canada,Land use (hectares),Industrial,3492333,Area (hectares)
+Canada,Land use (hectares),Infrastructure,4057163,Area (hectares)
+Canada,Land use (hectares),National Defence,2268385,Area (hectares)
+Canada,Land use (hectares),Recreation,6910272,Area (hectares)
+Canada,Land use (hectares),Settlement,4490832,Area (hectares)
+Canada,Land use (hectares),Unknown,212153844,Area (hectares)
