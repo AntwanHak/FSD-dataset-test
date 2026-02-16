@@ -1,0 +1,41 @@
+﻿Terrestrial ecozone,Section,Measure,Value,Units
+Canada,Forest area by classification,Forest land,368672267,Area (hectares)
+Canada,Forest area by classification,Other land with tree cover,6830004,Area (hectares)
+Canada,Forest area by classification,Other wooded land,35730397,Area (hectares)
+Canada,Forest area change,Afforestation,Not available,Area (hectares)
+Canada,Forest area change,Deforestation,49248,Area (hectares)
+Canada,Forest type,Non-treed,4.9,Percentage
+Canada,Forest type,Treed Broadleaf,11.4,Percentage
+Canada,Forest type,Treed Coniferous,70.2,Percentage
+Canada,Forest type,Treed Mixedwood,13.6,Percentage
+Canada,Forest ownership,Aboriginal,2.1,Percentage
+Canada,Forest ownership,Federal,1.7,Percentage
+Canada,Forest ownership,Municipal,0.3,Percentage
+Canada,Forest ownership,Other,0.8,Percentage
+Canada,Forest ownership,Private,6.7,Percentage
+Canada,Forest ownership,Provincial,75.7,Percentage
+Canada,Forest ownership,Territorial,12.8,Percentage
+Canada,Growing stock,Total,51073563000,Cubic metres
+Canada,Predominant tree species,Birch,3.3,Percentage
+Canada,Predominant tree species,Cedar & other conifers,3.1,Percentage
+Canada,Predominant tree species,Douglas-fir,3.8,Percentage
+Canada,Predominant tree species,Fir,8.4,Percentage
+Canada,Predominant tree species,Hemlock,6.2,Percentage
+Canada,Predominant tree species,Larch,1.5,Percentage
+Canada,Predominant tree species,Maple,3,Percentage
+Canada,Predominant tree species,Other hardwoods,0.5,Percentage
+Canada,Predominant tree species,Pine,11.8,Percentage
+Canada,Predominant tree species,Poplar,13.6,Percentage
+Canada,Predominant tree species,Spruce,43.9,Percentage
+Canada,Predominant tree species,Unclassified,0,Percentage
+Canada,Predominant tree species,Unspecified conifers,0.6,Percentage
+Canada,Predominant tree species,Unspecified hardwoods,0.3,Percentage
+Canada,Land use,Agriculture,60018561,Area (hectares)
+Canada,Land use,Conservation,93462126,Area (hectares)
+Canada,Land use,Forestry,260903158,Area (hectares)
+Canada,Land use,Industrial,3492333,Area (hectares)
+Canada,Land use,Infrastructure,4057163,Area (hectares)
+Canada,Land use,National Defence,2268385,Area (hectares)
+Canada,Land use,Recreation,6910272,Area (hectares)
+Canada,Land use,Settlement,4490832,Area (hectares)
+Canada,Land use,Unknown,212153844,Area (hectares)
